@@ -1,0 +1,38 @@
+#nav ul li {
+    float: left;
+    margin-right: 30px;
+    margin-top: 10px;
+    line-height: 40px;
+  }
+
+
+a, a:visited {
+      color: #333;
+      text-decoration: none;
+      outline: 0;
+    }
+
+ a:hover {
+      color: #222;
+      text-decoration: underline;
+      outline: 1;
+    }
+
+
+ul {
+      list-style: none outside;
+  }
+
+
+header a {
+  font-size: 1.5em;
+}
+
+
+.border {
+  border: 1px solid grey;
+  padding: 15px 15px 15px 15px;
+  border-radius: 10px;
+
+
+}
